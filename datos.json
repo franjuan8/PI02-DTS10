@@ -1,0 +1,19 @@
+{
+    "Date": "Date of accident",
+    "Time" : "Local time, in 24 hr. in the format hh:mm",
+    "Location" : "Location of the accident",
+    "Operator" : "Airline or operator of the aircraft",
+    "Flight" : "Flight number assigned by the aircraft operator",
+    "Route" : "Complete or partial route flown prior to the accident",
+    "Type" : "Aircraft type",
+    "Registration" : "ICAO registration of the aircraft",
+    "cn/In" : "Construction or serial number / Line or fuselage number",
+    "Total Aboard" : "Total people aboard",
+    "Passengers Aboard" :  "Passengers aboard",
+    "Crew Aboard" : "Crew aboard",
+    "Total Fatalities" : "Total fatalities",
+    "Passengers Fatalities" : "Passengers fatalities",
+    "Crew Fatalities" : "Crew fatalities",
+    "Ground" : "Total killed on the ground",
+    "Summary" : "Brief description of the accident and cause if known"
+}

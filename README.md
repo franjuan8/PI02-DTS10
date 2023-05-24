@@ -15,10 +15,10 @@ Elaborar un dashboard e idear un storytelling con el objetivo de presentarlo ant
 Adjuntar todo el trabajo en un repositorio de GitHub
 Stack tecnológico:
 
-Python: EDA + transformaciones + KPI
-Power BI -preferentemente- o Streamlit: dashboard
-GitHub: con un README.md donde se elabore el informe
-A modo de resumen, se espera que puedan realizar un primer acercamiento al dataset con Python. Allí, crearán un notebook que contendrá un análisis exploratorio y realizarán las transformaciones y el preprocesamiento que consideren pertinentes. Esta etapa debe estar oportunamente documentada y con los comentarios necesarios. Recuerden que Python brinda un recurso muy valioso para este fin -celdas markdown-.
+* Python: EDA + transformaciones + KPI
+* Power BI -preferentemente- o Streamlit: dashboard
+* GitHub: con un README.md donde se elabore el informe
+* A modo de resumen, se espera que puedan realizar un primer acercamiento al dataset con Python. Allí, crearán un notebook que contendrá un análisis exploratorio y realizarán las transformaciones y el preprocesamiento que consideren pertinentes. Esta etapa debe estar oportunamente documentada y con los comentarios necesarios. Recuerden que Python brinda un recurso muy valioso para este fin -celdas markdown-.
 
 En una instancia posterior, tendrán que ingestar el dataset en un motor SQL de su preferencia. Finalmente, la herramienta de visualización empleada debe conectarse y tomar los datos desde ese motor.
 # Pasos que Utilice para Realizar el Proyecto
